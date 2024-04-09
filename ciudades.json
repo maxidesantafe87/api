@@ -1,34 +1,32 @@
 {
-  "frases_diarias": [
-    {"id": 1, "frase": "Hoy es un buen día para reflexionar."},
-    {"id": 2, "frase": "La perseverancia es la clave del éxito."},
-    {"id": 3, "frase": "El aprendizaje es un viaje continuo."},
-    {"id": 4, "frase": "Siempre es un buen momento para comenzar."},
-    {"id": 5, "frase": "La gratitud transforma lo que tenemos en suficiente."}
-  ],
-  "horoscopo": [
-    {"id": 1,
-      "frases": [
-        {"signo": "Aries", "frase": "Hoy es un buen día para tomar decisiones importantes."},
-        {"signo": "Tauro", "frase": "Es hora de ser paciente y perseverante en tus metas."},
-        {"signo": "Géminis", "frase": "Tu creatividad te llevará a nuevos logros hoy."},
-        {"signo": "Cáncer", "frase": "Es importante mantener la calma en situaciones difíciles."},
-        {"signo": "Leo", "frase": "Hoy es un buen día para demostrar tu liderazgo."},
-        {"signo": "Virgo", "frase": "Tu atención a los detalles te ayudará a resolver problemas."},
-        {"signo": "Libra", "frase": "Busca el equilibrio en tus decisiones hoy."},
-        {"signo": "Escorpio", "frase": "Confía en tu intuición para superar obstáculos."},
-        {"signo": "Sagitario", "frase": "Es momento de aventurarse fuera de tu zona de confort."},
-        {"signo": "Capricornio", "frase": "La perseverancia te llevará al éxito."},
-        {"signo": "Acuario", "frase": "Mantén la mente abierta a nuevas posibilidades hoy."},
-        {"signo": "Piscis", "frase": "Confía en tus instintos para tomar decisiones importantes."}
-      ]
+  "frases_diarias": {
+    "1": "Hoy es un buen día para reflexionar.",
+    "2": "La perseverancia es la clave del éxito.",
+    "3": "El aprendizaje es un viaje continuo.",
+    "4": "Siempre es un buen momento para comenzar.",
+    "5": "La gratitud transforma lo que tenemos en suficiente."
+  },
+  "horoscopo": {
+    "1": {
+      "Aries": "Hoy es un buen día para tomar decisiones importantes.",
+      "Tauro": "Es hora de ser paciente y perseverante en tus metas.",
+      "Géminis": "Tu creatividad te llevará a nuevos logros hoy.",
+      "Cáncer": "Es importante mantener la calma en situaciones difíciles.",
+      "Leo": "Hoy es un buen día para demostrar tu liderazgo.",
+      "Virgo": "Tu atención a los detalles te ayudará a resolver problemas.",
+      "Libra": "Busca el equilibrio en tus decisiones hoy.",
+      "Escorpio": "Confía en tu intuición para superar obstáculos.",
+      "Sagitario": "Es momento de aventurarse fuera de tu zona de confort.",
+      "Capricornio": "La perseverancia te llevará al éxito.",
+      "Acuario": "Mantén la mente abierta a nuevas posibilidades hoy.",
+      "Piscis": "Confía en tus instintos para tomar decisiones importantes."
     }
-  ],
-  "biblia": [
-    {"id": 1, "versiculo": "Confía en el Señor con todo tu corazón y no te apoyes en tu propia prudencia."},
-    {"id": 2, "versiculo": "El Señor es mi pastor, nada me falta."},
-    {"id": 3, "versiculo": "Ama a tu prójimo como a ti mismo."},
-    {"id": 4, "versiculo": "No temas, porque yo estoy contigo."},
-    {"id": 5, "versiculo": "Buscad primero el reino de Dios y su justicia, y todas estas cosas os serán añadidas."}
-  ]
+  },
+  "biblia": {
+    "1": "Confía en el Señor con todo tu corazón y no te apoyes en tu propia prudencia.",
+    "2": "El Señor es mi pastor, nada me falta.",
+    "3": "Ama a tu prójimo como a ti mismo.",
+    "4": "No temas, porque yo estoy contigo.",
+    "5": "Buscad primero el reino de Dios y su justicia, y todas estas cosas os serán añadidas."
+  }
 }
