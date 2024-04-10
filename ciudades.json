@@ -22,6 +22,11 @@
       "Piscis": "Confía en tus instintos para tomar decisiones importantes."
     }
   },
+  
+  "bienvenida": {
+    "1": "Selecciona la Categoria."
+    
+  },
   "biblia": {
     "1": "Confía en el Señor con todo tu corazón y no te apoyes en tu propia prudencia.",
     "2": "El Señor es mi pastor, nada me falta.",
